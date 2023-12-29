@@ -1,8 +1,10 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img src="https://github.com/ashutoshKDew/Kotlin-training/blob/main/screenshot/m1.png" alt="drawing" width="200"/>
+<img src="https://github.com/ashutoshKDew/Kotlin-training/blob/main/screenshot/m2.png" alt="drawing" width="200"/>
+<img src="https://github.com/ashutoshKDew/Kotlin-training/blob/main/screenshot/dx1.png" alt="drawing" width="400"/>
+<img src="https://github.com/ashutoshKDew/Kotlin-training/blob/main/screenshot/dx2.png" alt="drawing" width="400"/>
 
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
